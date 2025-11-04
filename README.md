@@ -93,3 +93,7 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/khalidh1b/khalidh1b/output/snake.svg" alt="Snake animation" />
